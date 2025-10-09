@@ -1,6 +1,6 @@
 const texts = [
     ">_Hello I'm Forrest Tindall",
-    ">_Software Engineer, And Innovator"
+    ">_Software Engineer And Innovator"
 ];
 
 let loopIndex = 1;
